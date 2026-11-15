@@ -7,7 +7,7 @@ image: "/assets/images/I40_pilot_purgatory_resized.jpg"
 ---
 
 <figure>
-<img src="/assets/post_images/I40_pilot_purgatory_resized.jpg" alt="Industry 4.0 Pilot Purgatory Expression">
+<img src="{{ '/assets/images/I40_pilot_purgatory_resized.jpg' | relative_url }}" alt="Industry 4.0 Pilot Purgatory Expression">
 <figcaption>Industry 4.0 Pilot Purgatory Expression by Bing Image Creator</figcaption>
 </figure>
 
