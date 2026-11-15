@@ -7,10 +7,10 @@ image: "/assets/images/I40_pilot_purgatory_resized.jpg"
 ---
 
 <figure>
-<img src="/assets/images/I40_pilot_purgatory_resized.jpg" alt="Industry 4.0 Pilot Purgatory Expression">
+<img src="/assets/post_images/I40_pilot_purgatory_resized.jpg" alt="Industry 4.0 Pilot Purgatory Expression">
 <figcaption>Industry 4.0 Pilot Purgatory Expression by Bing Image Creator</figcaption>
 </figure>
-![Industry 4.0 Pilot Purgatory Expression]({{ "/assets/images/I40_pilot_purgatory_resized.jpg" | relative_url }})
+
 Industry 4.0 is the fourth industrial revolution, and it is characterized by the use of advanced technologies such as artificial intelligence (AI), the Internet of Things (IoT), and cloud computing. These technologies promises significant benefits for manufacturers, such as increased production capacity, reduced material losses, improved delivery lead times, higher employee satisfaction, and lower environmental impact.  
   
 However, many manufacturers are struggling to realize these benefits and scale up their digital initiatives across their networks of factories, in other words, stalling in **pilot purgatory**. According to a McKinsey survey[[1](https://www.mckinsey.com/capabilities/operations/our-insights/how-digital-manufacturing-can-escape-pilot-purgatory)], less than a third of respondents have moved critical use cases, such as digital performance management, into large-scale rollout. Many companies are experiencing “pilot purgatory”, which is when they invest in digital projects that do not go beyond the initial small deployment or deliver a satisfactory return on investment[[2](https://www.mckinsey.com/capabilities/operations/our-insights/capturing-the-true-value-of-industry-four-point-zero)].
